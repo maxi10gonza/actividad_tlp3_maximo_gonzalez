@@ -1,5 +1,5 @@
 # Ignora el entorno virtual
-venv/
+env/
 
 # Archivos temporales de Python
 __pycache__/
